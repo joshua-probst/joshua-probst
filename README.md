@@ -1,4 +1,4 @@
-### Hi there ✌️
+### Hi there, I'm Josh ✌️
 
 I'm employed at IntraConnect GmbH in Dresden, Germany.
 
