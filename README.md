@@ -22,7 +22,6 @@ At my Job i'm specilized on:
 
 ### Connect with me:
 
-[![Josh on twitter](https://img.shields.io/badge/@joshuaprobst-on_twitter-blue)](https://twitter.com/icJoshuaProbst)
 [![Josh on linkedin](https://img.shields.io/badge/joshuaprobst-on_linkedin-blue)](www.linkedin.com/in/joshua-probst-a374a2182)
 
 
