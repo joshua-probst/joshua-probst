@@ -10,8 +10,8 @@ At my Job i'm specilized on:
  - more things in M365 universe
 
 ### Languages and Tools: 
-<img align="left" alt="PowerShell" width="22px" src=".\images\Powershell.svg" />
-<img align="left" alt="Microsoft Office 365" width="22px" src=".\images\microsoft-365-seeklogo.com.svg" />
+<img align="left" alt="PowerShell" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/Powershell.svg" />
+<img align="left" alt="Microsoft Office 365" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/microsoft-365-seeklogo.com.svg" />
 
 <br/>
 
