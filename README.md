@@ -12,7 +12,7 @@ At my Job i'm specilized on:
 ### Languages and Tools: 
 
 <img align="left" alt="PowerShell" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/Powershell.svg" />
-<img align="left" alt="Microsoft Power Automaet" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/MSPowerAutomateLogo.svg" />
+<img align="left" alt="Microsoft Power Automate" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/MSPowerAutomateLogo.svg" />
 <img align="left" alt="Microsoft Graph" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/MSGraphLogo.png" />
 <img align="left" alt="Microsoft 365" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/microsoft-365-seeklogo.com.svg" />
 <img align="left" alt="JavaScript" width="22px" src="https://github.com/joshua-probst/joshua-probst/blob/main/images/logo-javascript.svg" />
